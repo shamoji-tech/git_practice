@@ -3,3 +3,4 @@ hirohiro::好きな言語::趣味
 goto::好きな言語::趣味
 nakamon::好きな言語::趣味
 chibassy::好きな言語::趣味
+kenmochi::好きな言語::趣味

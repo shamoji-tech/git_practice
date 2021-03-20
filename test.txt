@@ -1,0 +1,5 @@
+megumi::好きな言語::趣味
+hirohiro::好きな言語::趣味
+goto::好きな言語::趣味
+nakamon::好きな言語::趣味
+chibassy::好きな言語::趣味
